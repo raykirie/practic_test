@@ -1,0 +1,12 @@
+
+{
+    "users": [
+      { "user_id": "1", "username": "john_doe", "email": "john@example.com" },
+      { "user_id": "2", "username": "alice_smith", "email": "alice@example.com" }
+    ],
+    "products": [
+      { "product_id": "1", "name": "product_1", "price": 100 },
+      { "product_id": "2", "name": "product_2", "price": 200 }
+    ]
+  }
+  
